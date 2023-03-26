@@ -1,6 +1,8 @@
 #!/bin/bash
 bddc_version="0.3.9"
 ################################################################################
+# https://github.com/robyscar/PEEHOLE_DDNS_bddc/blob/master/BashDynDnsChecker.sh
+#                                                                              #
 # licensed under the                                                           #
 # The MIT License                                                              #
 #                                                                              #
